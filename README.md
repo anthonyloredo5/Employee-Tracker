@@ -4,8 +4,8 @@ This application provides a way to track employee data while also being able to 
 
 ## Screenshot
 
-![Screenshot]()
+![Screenshot](https://github.com/anthonyloredo5/Employee-Tracker/blob/main/Assets/Screen%20Shot%202021-01-30%20at%206.52.18%20PM.png)
 
-## Link to repository
+## Link to video
 
-https://github.com/anthonyloredo5/Employee-Tracker
+https://drive.google.com/file/d/1nB6f9J9j4iFnPLDmqTAdoTggb6loD8Fp/view?usp=sharing
